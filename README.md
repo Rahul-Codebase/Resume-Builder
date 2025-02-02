@@ -12,3 +12,5 @@ This Python project is a command-line interface (CLI) tool for building professi
 - Simple and intuitive navigation using `prompt_toolkit` for menu interactions.
 
 <img src="https://raw.githubusercontent.com/Rahul-Codebase/Resume-Builder/refs/heads/main/Screenshot%202025-02-02%20193230.png" /> 
+
+<img src="https://github.com/Rahul-Codebase/Resume-Builder/blob/main/Screenshot%202025-02-02%20194031.png?raw=true" />
