@@ -10,3 +10,5 @@ This Python project is a command-line interface (CLI) tool for building professi
 - Includes functionality to add detailed descriptions for work experience and projects.
 - Supports multiple certifications and achievements.
 - Simple and intuitive navigation using `prompt_toolkit` for menu interactions.
+
+https://github.com/Rahul-Codebase/Resume-Builder/blob/main/Screenshot%202025-02-02%20193230.png
